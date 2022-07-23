@@ -1,0 +1,13 @@
+{
+  "name": "gosolve-bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "goSolve",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
